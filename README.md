@@ -1,6 +1,9 @@
 # Liquid Swipe Android
 
-[![Maven Central](https://img.shields.io/maven-central/v/com.github.samyak2403/liquid-swipe-android.svg?label=Maven%20Central)](https://search.maven.org/search?q=g:com.github.samyak2403%20AND%20a:liquid-swipe-android)
+
+
+![pv](https://pageview.vercel.app/?github_user=liquid-swipe-android)
+
 
 ![Animation](https://raw.githubusercontent.com/Cuberto/liquid-swipe/master/Screenshots/animation.gif)
 
